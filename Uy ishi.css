@@ -1,0 +1,32 @@
+ img {
+    
+    width: 150px;
+    height: 100px;
+    
+  margin: 50px 500px 20px 450px;
+  
+ 
+}
+.id {
+   text-align: center;
+    color: blue;
+    
+    
+}
+.w {
+    text-align: center;
+}
+.word {
+    color: greenyellow;
+    margin: 20px 80px;
+}
+.Front-End {
+    color: aqua;
+    margin: 20px 80px;
+}
+.lorem {
+    margin: 20px 80px;
+}
+body {
+    background-color: rgb(21, 84, 244);
+}
