@@ -1,0 +1,23 @@
+.style{
+    margin: 25px 25px;
+}
+
+.index{
+    background-color: rgb(32, 216, 216);
+    padding: 20px;
+}
+
+.html{
+    background-color: rgb(4, 250, 148);
+    padding: 20px;
+}
+
+.Front{
+    background-color: rgb(53, 22, 132);
+    padding: 20px;
+}
+
+.End{
+    background-color: rgb(48, 131, 226);
+    padding: 20px;
+}
